@@ -6,7 +6,7 @@ import "./index.css";
 export default function Home() {
   return (
     <main>
-      <img src={Logo} class="Logo" />;
+      <img src={Logo} class="Logo" />
       <Title>Owl Prototyping</Title>
       <h1>Welcome to Owl Prototyping</h1>
       <Counter />
